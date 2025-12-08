@@ -74,10 +74,6 @@ Expérience dans :
 👉 **[Compétences détaillées](./skills.md)**
 
 ---
-
-## 🧭 **Alignement avec le poste d’Enseignant-Chercheur (USO)**
-
-L’appel à candidatures requiert :
 ✔ une expérience d’enseignement supérieur
 ✔ des publications scientifiques
 ✔ une maîtrise des outils numériques et technologies éducatives
@@ -85,9 +81,6 @@ L’appel à candidatures requiert :
 ✔ un engagement dans les activités académiques et communautaires
 
 **Mon parcours répond rigoureusement à ces critères**, avec une double expérience universitaire et institutionnelle, une production scientifique pertinente et une polyvalence dans les méthodes quantitatives appliquées aux sciences sociales.
-
----
-
 
 ---
 
