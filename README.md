@@ -1,4 +1,3 @@
-Parfait. Voici votre **README GitHub finalisé**, intégrant votre lien officiel :
 
 ---
 
@@ -61,8 +60,7 @@ Expérience dans :
 * Méthodes bayésiennes pour données socioéconomiques
 * Cartographie statistique et analyse spatiale
 
-👉 **Mes repositories GitHub :**
-[https://github.com/Accrachi9/Accrachi9](https://github.com/Accrachi9/Accrachi9)
+
 
 ---
 
@@ -90,15 +88,6 @@ L’appel à candidatures requiert :
 
 ---
 
-## 🔗 **Liens utiles**
-
-* 🌐 **GitHub :** [https://github.com/Accrachi9/Accrachi9](https://github.com/Accrachi9/Accrachi9)
-* 📄 **CV :** ./CV_El_Hadji_Ousseynou_ACCRACHI.pdf
-* 📘 **Portfolio PDF :** ./Portfolio_ACCRACHI.pdf
-* 📝 **Lettre de motivation USO :** ./Lettre_Motivation_USO.pdf
-* 🏛 **Appel à candidatures USO :** ./Appel_USO.pdf
-
-(Remplacez les fichiers par vos noms exacts dans votre repository.)
 
 ---
 
@@ -109,8 +98,4 @@ Pour toute collaboration académique, encadrement ou projet de recherche :
 
 ---
 
-Si vous le souhaitez, je peux maintenant :
-• ajouter **des badges GitHub**,
-• ajouter votre **statistique GitHub (contributions, langages)**,
-• créer **les fichiers liés** (teaching.md, publications.md, skills.md),
-• styliser votre README avec un **design plus visuel**.
+
