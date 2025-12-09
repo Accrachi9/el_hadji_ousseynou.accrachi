@@ -1,7 +1,7 @@
 title: "El Hadji Ousseynou ACCRACHI"
-logo: img/EOA.jpg
-description: "Statisticien - Mathématicien - Analyste de données"
-show_downloads: true
+description: "Portfolio académique — Enseignant-Chercheur en Mathématiques, Statistique et Sciences des données"
 theme: jekyll-theme-modernist
-lang: fr
-markdown: Kramdown
+markdown: kramdown
+
+# Photo de profil
+profile_image: "img/EOA.jpg"
