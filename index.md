@@ -1,5 +1,16 @@
 <p align="center">
-  <img src="{{ site.profile_image }}" alt="Photo de El Hadji Ousseynou ACCRACHI" width="180" style="border-radius: 8px;">
+  <img 
+    src="{{ site.profile_image }}" 
+    alt="Photo de El Hadji Ousseynou ACCRACHI" 
+    width="140" 
+    style="
+      border: 2px solid #0A3D62;
+      border-radius: 10px;
+      padding: 3px;
+      background: #ffffff;
+      box-shadow: 0px 0px 6px rgba(0,0,0,0.15);
+    "
+  >
 </p>
 
 # El Hadji Ousseynou ACCRACHI
