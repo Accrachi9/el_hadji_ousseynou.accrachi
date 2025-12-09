@@ -2,7 +2,7 @@
   <img 
     src="{{ site.profile_image }}" 
     alt="Photo de El Hadji Ousseynou ACCRACHI" 
-    width="140" 
+    width="100" 
     style="
       border: 2px solid #0A3D62;
       border-radius: 10px;
