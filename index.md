@@ -1,7 +1,7 @@
 # El Hadji Ousseynou ACCRACHI
 **Statisticien – Mathématicien – Analyste de données**  
 Autonome et enthousiaste, mes premières expériences m'ont permis de renforcer mes acquis et d'appréhender l'enseignement supérieur, les différents outils et techniques d'analyse de données. 
-👉 Email : eaccrachi@gmail.com
+-👉 Email : eaccrachi@gmail.com
 
 ---
 
