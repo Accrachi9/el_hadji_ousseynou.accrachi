@@ -16,7 +16,7 @@ Je combine enseignement universitaire, recherche scientifique, analyse de donné
 
 ## 📄 Curriculum Vitae
 Vous pouvez consulter mon CV complet ici :  
-👉 [Télécharger mon CV](CV_El_Hadji_Ousseynou _ACCRACHI.pdf)
+👉 [Télécharger mon CV](CV_El_Hadji_Ousseynou_ACCRACHI.pdf)
 
 ---
 
