@@ -25,7 +25,7 @@ Vous pouvez consulter mon CV complet ici :
 - Enseignement en statistiques, probabilités, mathématiques appliquées  
 - Travaux dirigés, encadrement méthodologique  
 - Expérience à l’Université Laval et à l’Université Gaston Berger
-- Expérience d'enseigement en mathématiques au CEM Yoff Village des niveau pour les niveaux Terminal, Première, Seconde, 4ème, 5ème et 6ème 
+- Expérience d'enseigement en mathématiques au CEM Yoff Village aux niveaux terminal, première, seconde, quatrième, cinquième et sixième
 - Intégration des technologies éducatives  
 
 👉 [Voir mon portfolio d’enseignement](./teaching.md)
