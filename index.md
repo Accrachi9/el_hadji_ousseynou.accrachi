@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="{{ site.profile_image }}" alt="Photo de El Hadji Ousseynou ACCRACHI" width="180" style="border-radius: 8px;">
+</p>
+
 # El Hadji Ousseynou ACCRACHI
 **Statisticien – Mathématicien – Analyste de données**  
 Autonome et enthousiaste, mes premières expériences m'ont permis de renforcer mes acquis et d'appréhender l'enseignement supérieur, les différents outils et techniques d'analyse de données. 
