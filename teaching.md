@@ -4,13 +4,13 @@
 - Auxiliaire d’enseignement en statistique 
 - Service de dépannage pour les étudiants au BAC (première à quatrième année d'université)
 - Service de consultation statistique  
-- Surveillances et corrections d'examens pour le niveau BAC  
+- Surveillance et correction d'examens de niveau BAC  
 
 ## Université Gaston Berger (Saint-Louis, Sénégal)
 - Auxiliaire d’enseignement en mathématiques et statistiques  
 - Conduite de travaux dirigés et corrections d'examens  
 
-## Lycée Ousmane Sembène (Dakar, Sénégal)
+## CEM Yoff Village (Lycée Ousmane Sembène) (Dakar, Sénégal)
 - Enseignement des mathématiques  
 - Suivi d’élèves en séries scientifiques
 - Création d'un club de mathématiques
