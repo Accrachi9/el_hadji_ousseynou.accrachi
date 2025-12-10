@@ -40,7 +40,7 @@ Découvrez mes travaux de recherche :
 
 ## 📊 Projets & Analyse de données
 Sélection de projets académiques et professionnels :  
-👉 [Voir mes projets sur GitHub](Bientôt disponible)
+👉 Voir mes projets sur GitHub (Bientôt disponible...)
 
 ---
 
