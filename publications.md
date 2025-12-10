@@ -17,5 +17,5 @@
 - Analyse statistique avancée
 - Mathématiques 
 - Biostatistique
-- Data science  
+- Data sciences  
 - Données socioéconomiques et sciences sociales appliquées
