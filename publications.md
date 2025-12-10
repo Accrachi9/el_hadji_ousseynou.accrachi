@@ -2,7 +2,7 @@
 
 ## Articles
 - [On Parameter Estimation by Aggregated Poisson Observations (2019)](On_Parameter_Estimation_by_Aggregated_Poisson_Observations.pdf)  
-- **On the Parameter Estimation by Method of Moments and Wald Type Test for Poisson Processes** (2018)
+- [On the Parameter Estimation by Method of Moments and Wald Type Test for Poisson Processes (2018)](On_the_Parameter_Estimation_by_Method_of_Moments_and_Wald_Type_Test_for_Poisson_Processes.pdf)
 
 ## Communications scientifiques
 - **A New Statistical Framework for Fine Mapping** (2018) – Université Laval  
