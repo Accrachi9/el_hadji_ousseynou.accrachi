@@ -21,4 +21,9 @@
 - Pédagogie active et basée sur les compétences  
 - Intégration des technologies éducatives  
 - Accompagnement individualisé des étudiants  
-- Application des méthodes statistiques dans les sciences sociales    
+- Application des méthodes statistiques dans les sciences sociales
+
+---
+
+## 🧑‍🏫 Mes cours
+- À venir...
