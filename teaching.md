@@ -11,7 +11,7 @@
 - Conduite de travaux dirigés et corrections d'examens  
 
 ## CEM Yoff Village (Lycée Ousmane Sembène) (Dakar, Sénégal)
-- Enseignement des mathématiques  
+- Enseignement des mathématiques aux niveaux terminale, première, seconde, quatrième, cinquième et sixième 
 - Suivi d’élèves en séries scientifiques
 - Création d'un club de mathématiques
 
