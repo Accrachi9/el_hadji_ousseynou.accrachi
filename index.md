@@ -46,8 +46,7 @@ Sélection de projets académiques et professionnels :
 
 ## 🔗 Liens utiles
 - GitHub : https://github.com/Accrachi9/Accrachi9  
-- Portfolio PDF : bientôt disponible  
-- Lettre de motivation USO : bientôt disponible
+- [Lettre de motivation](Lettre_de_motivation_El_Hadji_Ousseynou_ACCRACHI.pdf)
 - [Certification en Data sciences (2025) Ûdemy](Certification_DATA_SCIENCES_Udemy.pdf)
 - [Formation en développement WEB (2022) Cégep Sainte-Foy](REBON_Numérique_Cégep_Sainte_Foy.pdf)
   
