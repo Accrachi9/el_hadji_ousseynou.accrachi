@@ -6,7 +6,7 @@ Autonome et enthousiaste, mes premières expériences m'ont permis de renforcer 
 ---
 
 ## 🎓 À propos de moi
-Statisticien et mathématicien spécialisé en modélisation, probabilités et analyse avancée des données, titulaire :  
+Statisticien, mathématicien et analyste de données, titulaire :  
 - d’un **DEA en Probabilités et Statistique** (UGB),  
 - d’une **Maîtrise en Statistique** (Université Laval),  
 - d’une **Maîtrise en Mathématiques Appliquées et Informatique** (UGB).
@@ -22,10 +22,10 @@ Vous pouvez consulter mon CV complet ici :
 ---
 
 ## 🧑‍🏫 Enseignement
-- Enseignement en statistiques, probabilités, mathématiques appliquées  
+- Enseignement en statistique, probabilités, mathématiques appliquées  
 - Travaux dirigés, encadrement méthodologique  
 - Expérience à l’Université Laval et à l’Université Gaston Berger
-- Expérience d'enseigement en mathématiques au CEM Yoff Village aux niveaux terminal, première, seconde, quatrième, cinquième et sixième
+- Expérience d'enseigement en mathématiques au CEM Yoff Village (Lycée Ousmane Sebène) 
 - Intégration des technologies éducatives  
 
 👉 [Voir mon portfolio d’enseignement](./teaching.md)
