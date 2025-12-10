@@ -1,7 +1,7 @@
 # Publications et Communications
 
 ## Articles
-- **On Parameter Estimation by Aggregated Poisson Observations** (2019) (https://github.com/Accrachi9/el_hadji_ousseynou.accrachi/blob/main/On_Parameter_Estimation_by_Aggregated_Poisson_Observations.pdf)  
+- **On Parameter Estimation by Aggregated Poisson Observations** (2019)  
 - **On the Parameter Estimation by Method of Moments and Wald Type Test for Poisson Processes** (2018)
 
 ## Communications scientifiques
