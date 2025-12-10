@@ -8,8 +8,8 @@
 - **Tests d'ajustement Pour Les Processus de Poisson Non Homogènes à Fonction d'Intensité Discontinue** (2012) - Université Gaston Berger
 - **Participation au Colloque R à Québec** (2017) - Université Laval
 - [A New Statistical Framework for Fine Mapping (2020) – Université Laval :](Un_nouveau_cadre_statistique_pour_la_cartographie_fine.pdf)
--  **Présentation à l'Examen doctoral : volet prospectif** (2018) - Université Laval
--  **Présentation aux Colloques de mathématiques et de statistique** (2018) - Université Laval
+-  **Présentation à l'Examen doctoral : volet prospectif** (2018) - Université Laval,
+-  **Présentation aux Colloques de mathématiques et de statistique** (2018) - Université Laval.
 
 
 ---
